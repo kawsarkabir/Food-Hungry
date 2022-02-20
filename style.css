@@ -1,0 +1,24 @@
+.common-btn {
+    text-decoration: none;
+    color: #fff;
+    background: #ffca2c;
+    padding: 12px 25px;
+    display: inline-block;
+    border-radius: 30px;
+}
+
+.carousel-item img {
+    height: 80vh !important;
+}
+
+.menu-card {
+    border-radius: 30px;
+}
+
+.menu-card-body {
+    border-radius: 0px 0px 30px 30px;
+}
+
+.footer-social ul {
+    list-style: none;
+}
